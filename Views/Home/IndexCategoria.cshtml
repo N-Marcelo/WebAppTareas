@@ -1,0 +1,34 @@
+@model List<WebAppTareas.Models.CategoriaViewModel>
+
+
+@{
+    ViewData["Title"] = "Lista de Categorias";
+}
+
+<h2>Lista de Tareas</h2>
+
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">@ViewData["Error"]</div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <th>Nombre</th>
+        <th>Descripcion</th>
+        <th>Peso de categoria</th>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+        @foreach (var Categoria in Model)
+        {
+            <tr>
+                <td>@Categoria.NombreCategoria</td>
+                <td>@Categoria.DescripcionCategoria</td>
+                <td>@Categoria.PesoCategoria</td>
+            </tr>
+        }
+        }
+    </tbody>
+</table>
