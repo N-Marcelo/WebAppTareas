@@ -17,7 +17,6 @@ C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\scopedcss\bundle\WebAppTareas.styles.css
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\scopedcss\projectbundle\WebAppTareas.bundle.scp.css
-C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\fw7l3w4od9-b9sayid5wm.gz
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\w1hyuo3uvz-61n19gt1b8.gz
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\3vm9wmvywn-xtxxf3hu2r.gz
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\gdrulrrw0r-bqjiyaj88i.gz
@@ -95,3 +94,8 @@ C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\WebAppTareas.pdb
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\WebAppTareas.genruntimeconfig.cache
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\ref\WebAppTareas.dll
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\WebAppTareas.sourcelink.json
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\29yjwaudzh-5ipweew5fc.gz
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\fw7l3w4od9-3y8m7uxm6z.gz
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\6sk5fbxcs4-0pm9mrdm92.gz
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\s8hmo7g3jz-xn9rt9o5nm.gz

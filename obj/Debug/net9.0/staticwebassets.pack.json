@@ -9,12 +9,24 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
       "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js",
+      "PackagePath": "staticwebassets\\js\\tarea.js"
     },
     {
       "Id": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\bootstrap\\LICENSE",

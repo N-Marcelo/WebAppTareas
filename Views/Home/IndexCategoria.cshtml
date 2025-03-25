@@ -1,11 +1,14 @@
 @model List<WebAppTareas.Models.CategoriaViewModel>
-
+<head>
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
 
 @{
     ViewData["Title"] = "Lista de Categorias";
 }
 
-<h2>Lista de Tareas</h2>
+<h2>Lista de Categorias</h2>
 
 @if (ViewData["Error"] != null)
 {
@@ -21,14 +24,59 @@
     <tbody>
         @if (Model != null && Model.Any())
         {
-        @foreach (var Categoria in Model)
+        @foreach (var categoria in Model)
         {
-            <tr>
-                <td>@Categoria.NombreCategoria</td>
-                <td>@Categoria.DescripcionCategoria</td>
-                <td>@Categoria.PesoCategoria</td>
+            <tr id="row-@categoria.CategoriaId">
+                <td>
+                    <span class="text">@categoria.NombreCategoria</span>
+                    <input type="text" class="form-control d-none" name="NombreCategoria" value="@categoria.NombreCategoria" />
+                </td>
+                <td>
+                    <span class="text">@categoria.DescripcionCategoria</span>
+                    <input type="text" class="form-control d-none" name="DescripcionCategoria" value="@categoria.DescripcionCategoria" />
+                </td>
+                <td>
+                    <span class="text">@categoria.PesoCategoria</span>
+                    <input type="text" class="form-control d-none" name="PesoCategoria" value="@categoria.PesoCategoria" />
+                </td>
+                <td>
+                <button class="btn btn-warning btn-sm" onclick="habilitarEdicion('@categoria.CategoriaId')">Editar</button>
+                <button class="btn btn-success btn-sm d-none" onclick="guardarEdicion('@categoria.CategoriaId')">Guardar</button>
+                <button class="btn btn-danger btn-sm" onclick="eliminarCategoria('@categoria.CategoriaId')">Eliminar</button>
+                </td>
             </tr>
-        }
+            }
         }
     </tbody>
 </table>
+
+        <button id="toggleFormBtn" 
+            class="btn btn-primary mb-3" 
+            type="button">
+        <i class="fas fa-plus-circle"></i> Agregar categoria
+    </button>
+
+    <div id="formContainer" style="display: none;">
+        <h2>Rellene el formulario</h2>
+        <form id="formAgregarCategoria">
+            <div class="form-group">
+                <label for="nombreCategoria">Nombre de la categoria</label>
+                <input type="text" class="form-control" id="nombreCategoria" name="NombreCategoria" required>
+            </div>
+            <div class="form-group">
+                <label for="descripcionCategoria">Descripción</label>
+                <input type="text" class="form-control" id="descripcionCategoria" name="DescripcionCategoria">
+            </div>
+            <div class="form-group">
+                <label for="pesoCategoria">Peso de la categoria (Del 10 al 100)</label>
+                <input type="text" class="form-control" id="pesoCategoria" name="PesoCategoria">
+            </div>
+            <button type="submit" class="btn btn-primary">Agregar Tarea</button>
+        </form>
+    </div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/categoria.js"></script>
+}

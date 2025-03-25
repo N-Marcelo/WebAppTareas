@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q6B1HCZj4IkmVOc9+2kxib/l7ic6jkzBtqLKpd7om68=",
+  "Hash": "GmJ3nsylOC9LAfMdAQ5oGR8YOkfNT/Ppvhc14r9ijsI=",
   "Source": "WebAppTareas",
   "BasePath": "_content/WebAppTareas",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\29yjwaudzh-5ipweew5fc.gz",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "css/styles#[.{fingerprint=5ipweew5fc}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\2olgdrs61t-jd9uben2k1.gz",
@@ -225,6 +246,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\6sk5fbxcs4-0pm9mrdm92.gz",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "js/tarea#[.{fingerprint=0pm9mrdm92}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8k4jhj4vbu",
+      "Integrity": "KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js"
     },
     {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\7iftn67pmd-ub07r2b239.gz",
@@ -479,12 +521,12 @@
       "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-3y8m7uxm6z.gz",
       "SourceId": "WebAppTareas",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebAppTareas",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=3y8m7uxm6z}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +535,8 @@
       "RelatedAsset": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "am7u2k6fa0",
+      "Integrity": "ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\site.css"
@@ -876,6 +918,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\s8hmo7g3jz-xn9rt9o5nm.gz",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "js/categoria#[.{fingerprint=xn9rt9o5nm}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2nzkyt7yx1",
+      "Integrity": "btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\sjztux7c2n-ausgxo2sd3.gz",
@@ -1417,11 +1480,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "3y8m7uxm6z",
+      "Integrity": "NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\favicon.ico",
@@ -1445,6 +1529,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "js/categoria#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xn9rt9o5nm",
+      "Integrity": "rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\site.js",
       "SourceId": "WebAppTareas",
       "SourceType": "Discovered",
@@ -1464,6 +1569,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js",
+      "SourceId": "WebAppTareas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\",
+      "BasePath": "_content/WebAppTareas",
+      "RelativePath": "js/tarea#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0pm9mrdm92",
+      "Integrity": "3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tarea.js"
     },
     {
       "Identity": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -2728,8 +2854,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-b9sayid5wm.gz",
+      "Route": "css/site.3y8m7uxm6z.css",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-3y8m7uxm6z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2748,11 +2874,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2898,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "3y8m7uxm6z"
         },
         {
           "Name": "label",
@@ -2786,12 +2912,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
+      "Route": "css/site.3y8m7uxm6z.css",
       "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2801,7 +2927,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "669"
         },
         {
           "Name": "Content-Type",
@@ -2809,11 +2935,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2823,7 +2949,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "3y8m7uxm6z"
         },
         {
           "Name": "label",
@@ -2831,13 +2957,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-b9sayid5wm.gz",
+      "Route": "css/site.3y8m7uxm6z.css.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-3y8m7uxm6z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2854,11 +2980,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,7 +3002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "3y8m7uxm6z"
         },
         {
           "Name": "label",
@@ -2884,13 +3010,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-3y8m7uxm6z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2909,11 +3035,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,13 +3059,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM="
         }
       ]
     },
@@ -2954,7 +3080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "667"
+          "Value": "669"
         },
         {
           "Name": "Content-Type",
@@ -2962,11 +3088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2976,13 +3102,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-NfpQtPYvYs68F9hvcKnTyGOrELZ+V3fCFkzJQtAsMSM="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-b9sayid5wm.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\fw7l3w4od9-3y8m7uxm6z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2999,11 +3125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 17:44:59 GMT"
+          "Value": "Mon, 24 Mar 2025 22:56:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3147,305 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-ErTXpvJtkTY/hBy43Zn+FdwZFu0kuGr6uqGXvrF4C5w="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\29yjwaudzh-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.5ipweew5fc.css",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.5ipweew5fc.css.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\29yjwaudzh-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\29yjwaudzh-5ipweew5fc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "1.000000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\29yjwaudzh-5ipweew5fc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 22:45:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
@@ -3324,6 +3748,304 @@
       ]
     },
     {
+      "Route": "js/categoria.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\s8hmo7g3jz-xn9rt9o5nm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000759878419"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\s8hmo7g3jz-xn9rt9o5nm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.xn9rt9o5nm.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\s8hmo7g3jz-xn9rt9o5nm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000759878419"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn9rt9o5nm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.xn9rt9o5nm.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4647"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn9rt9o5nm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rSpaAVBsjdwhT77BOWgrCYUG33BWYcK3Fg4LevWEH/8="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.xn9rt9o5nm.js.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\s8hmo7g3jz-xn9rt9o5nm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:38:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xn9rt9o5nm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-btf9KXLlD9wFkpLJqr72/9kouzUrcs0Lu5y5x4uOHyk="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\3vm9wmvywn-xtxxf3hu2r.gz",
       "Selectors": [
@@ -3618,6 +4340,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-Ydq7YvQUzhbo68waLZeQvZnPOvmTeQ+HyDqjkA1whsA="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.0pm9mrdm92.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\6sk5fbxcs4-0pm9mrdm92.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000487329435"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pm9mrdm92"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tarea.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.0pm9mrdm92.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pm9mrdm92"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tarea.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.0pm9mrdm92.js.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\6sk5fbxcs4-0pm9mrdm92.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0pm9mrdm92"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tarea.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\6sk5fbxcs4-0pm9mrdm92.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000487329435"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.js",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\wwwroot\\js\\tarea.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8405"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3LKH0+pvtFvJqrfttegYLHoTlP7t3nuxiVElSwW4tpk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tarea.js.gz",
+      "AssetFile": "C:\\Users\\Nicolas - PC\\Desktop\\Cursos Platzi\\Proyectos Personales\\Web App Tareas\\WebAppTareas\\obj\\Debug\\net9.0\\compressed\\6sk5fbxcs4-0pm9mrdm92.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 00:18:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIVbFy2Dgan8SLAGxzy+tmMvD5IlfuWfLSjl3bEbvpA="
         }
       ]
     },

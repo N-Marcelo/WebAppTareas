@@ -119,7 +119,7 @@ namespace WebAppTareas.Controllers;
                 {
                     PropertyNameCaseInsensitive = true
                 })?? new List<CategoriaViewModel>();
-                 _logger.LogInformation($"Se obtuvieron {categorias.Count} tareas desde la API.");
+                 _logger.LogInformation($"Se obtuvieron {categorias.Count} categorias desde la API.");
             }
             else
             {
