@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Gestor de Tareas";
+    Layout = "_Layout"; // Asegúrate de usar tu layout
+}
+
+<div class="container text-center mt-5">
+    <h1 class="display-4">Bienvenido al Gestor</h1>
+    <p class="lead">Seleccione el módulo que desea administrar:</p>
+    
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow">
+                <div class="card-body">
+                    <i class="fas fa-tasks fa-5x mb-3 text-primary"></i>
+                    <h3 class="card-title">Tareas</h3>
+                    <p class="card-text">Administre sus tareas pendientes</p>
+                </div>
+                <div class="card-footer bg-transparent">
+                    <a asp-controller="Tarea" asp-action="IndexTarea" class="btn btn-primary">
+                        Ingresar a Tareas
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow">
+                <div class="card-body">
+                    <i class="fas fa-tags fa-5x mb-3 text-success"></i>
+                    <h3 class="card-title">Categorías</h3>
+                    <p class="card-text">Administre las categorías</p>
+                </div>
+                <div class="card-footer bg-transparent">
+                    <a asp-controller="Categoria" asp-action="IndexCategoria" class="btn btn-success">
+                        Ingresar a Categorías
+                    </a>
+            </div>
+        </div>
+    </div>
+</div>

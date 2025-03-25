@@ -96,6 +96,6 @@ C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\ref\WebAppTareas.dll
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\WebAppTareas.sourcelink.json
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\29yjwaudzh-5ipweew5fc.gz
-C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\fw7l3w4od9-3y8m7uxm6z.gz
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\6sk5fbxcs4-0pm9mrdm92.gz
 C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\s8hmo7g3jz-xn9rt9o5nm.gz
+C:\Users\Nicolas - PC\Desktop\Cursos Platzi\Proyectos Personales\Web App Tareas\WebAppTareas\obj\Debug\net9.0\compressed\fw7l3w4od9-ie47zoyh16.gz
