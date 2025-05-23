@@ -5,7 +5,7 @@ builder.Services.AddControllersWithViews();
 //Conexión a la API de tareas
 builder.Services.AddHttpClient("ApiClient", client =>
 {
-    client.BaseAddress = new Uri("https://localhost:7067/"); // URL de la API
+    client.BaseAddress = new Uri("https://localhost:/"); // URL de la API
 })
 //Ignorar los errores de SSL (DESARROLLO)
 .ConfigurePrimaryHttpMessageHandler(() =>
