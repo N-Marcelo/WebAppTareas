@@ -1,4 +1,3 @@
-![GestorTareas1](https://github.com/user-attachments/assets/13cf462b-2337-4ab7-9cd5-460b011a01e2)# Proyecto: Web App de tareas
 Proyecto realizado con ASP.NET, consume una API [Ingresa al repositorio de la API](https://github.com/N-Marcelo/API-con-.NET) para un mejor control de los usuarios, fue desarrollado siguiendo los principios SOLID y Clean code. Se usó Bootstrap para los estilos, JavaScript para la carga dinámica de los datos y confirmación a su manipulación.
 
 # Estructura del proyecto
